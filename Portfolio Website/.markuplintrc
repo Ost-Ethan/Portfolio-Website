@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "label-has-control": false,
+    "required-h1": false,
+    "landmark-roles": false,
+    "require-accessible-name": true,
+    "wai-aria": true,
+    "no-refer-to-non-existent-id": true,
+    "use-list": false
+  }
+}
